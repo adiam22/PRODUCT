@@ -1,5 +1,6 @@
 # PRODUCT
-# Product Portfolio — Adi Amruta
+# Product Portfolio 
+
 
 A curated portfolio of product strategy and system design case studies.  
 These projects demonstrate problem discovery, stakeholder analysis, solution design, GTM strategy, and success metrics — reflecting my journey as a Product Manager.
